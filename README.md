@@ -37,18 +37,18 @@ Hopefully, this will help you enjoy this years Fifa even more! ;)
 If you wish to support me, you can drop a follow on my twitch www.twitch.tv/ralpheos for career mode streams and youtube https://www.youtube.com/channel/UCOQLoKmx9pTlmLWJdz8iFMQ
 for highlights of them, Fifa tips and other Football nonsense.
 
-<a href="https://i.imgur.com/o1qmqrn.png" target="_blank">
-<img src="https://i.imgur.com/o1qmqrn.png" alt="Story">
+<a href="https://i.imgur.com/HpPwxz6.png" target="_blank">
+<img src="https://i.imgur.com/HpPwxz6.png" alt="Story page">
 </a>
-<a href="https://i.imgur.com/UbdjDpf.png" target="_blank">
-<img src="https://i.imgur.com/UbdjDpf.png" alt="Overview">
+<a href="https://i.imgur.com/XyAI99s.png" target="_blank">
+<img src="https://i.imgur.com/XyAI99s.png" alt="Overview page">
 </a>
-<a href="https://i.imgur.com/4LmH9MG.png" target="_blank">
-<img src="https://i.imgur.com/4LmH9MG.png" alt="Seasons Tab">
+<a href="https://i.imgur.com/A32qKf3.png" target="_blank">
+<img src="https://i.imgur.com/A32qKf3.png" alt="Season Progression Graph">
 </a>
-<a href="https://i.imgur.com/tlSvzWn.png" target="_blank">
-<img src="https://i.imgur.com/tlSvzWn.png" alt="Seasons Tab-bottom">
+<a href="https://i.imgur.com/nbLyygo.png" target="_blank">
+<img src="https://i.imgur.com/nbLyygo.png" alt="VS stats">
 </a>
-<a href="https://i.imgur.com/tlFmX13.png" target="_blank">
-<img src="https://i.imgur.com/tlFmX13.png" alt="Tables for each competition">
+<a href="https://i.imgur.com/g99b9R5.png" target="_blank">
+<img src="https://i.imgur.com/g99b9R5.png" alt="Player stats">
 </a>
