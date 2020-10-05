@@ -1,4 +1,5 @@
 # FIFA-21-Career-Mode-spreadsheet-for-League-2
+**Pictures at the bottom**
 
 Spreadsheet holding career mode data about your team and players, updated from 2018 version: https://github.com/R4lfXD/Fifa-19-career-mode-history-spreadsheet-for-english-football
 
@@ -20,19 +21,12 @@ Check back on the instructions file once in a while when you encounter problems 
 
 **Tips for editing** (optional)**:**  
 - For club logo use Wikipedia site of the club.
-
 - For club season finishes, use Wikipedia site of the clubs seasons (ie. https://en.wikipedia.org/wiki/List_of_Charlton_Athletic_F.C._seasons) as well as Transfermarkt's site of the club
-
 - For club stadium and kit photos, use google images.
-
 - For club record holding strikers, use Wikipadia site of the club players (ie. https://en.wikipedia.org/wiki/List_of_Charlton_Athletic_F.C._players), in biggers clubs site of records and statistics (ie. https://en.wikipedia.org/wiki/List_of_Arsenal_F.C._records_and_statistics)
-
 - For club rivalries use https://en.wikipedia.org/wiki/List_of_sports_rivalries_in_the_United_Kingdom and find VS stats of the two on http://www.soccerbase.com/
-
 - For club achievements, use clubs oficial site as well as their Wikipedia site.
-
 - For player nationalities use Wikipedia, open pictures in new tab, right click and copy, and paste right into the file.
-
 - For highlights of goals, use either imgur for a gif, or streamable for a video, and enter as hyperlink.
 
 
