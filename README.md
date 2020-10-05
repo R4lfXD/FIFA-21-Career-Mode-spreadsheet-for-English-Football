@@ -39,6 +39,8 @@ Hopefully, this will help you enjoy this years Fifa even more! ;)
 If you wish to support me, you can drop a follow on my twitch www.twitch.tv/ralpheos for career mode streams and youtube https://www.youtube.com/channel/UCOQLoKmx9pTlmLWJdz8iFMQ
 for highlights of them, Fifa tips and other Football nonsense.
 
+Full Imgur album: https://imgur.com/gallery/GVkbWSt
+
 <a href="https://i.imgur.com/HpPwxz6.png" target="_blank">
 <img src="https://i.imgur.com/HpPwxz6.png" alt="Story page">
 </a>
