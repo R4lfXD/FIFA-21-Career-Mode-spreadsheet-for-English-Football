@@ -15,9 +15,11 @@ The base club I chose is Bradford City, but of course, rename and color to color
 Check back on the instructions file once in a while when you encounter problems or forget what is purpouse of which feature.
 
 **Quick Feature List :**
-- Record stats of your players in each competition
-- lol
-
+- Record stats of your players in each competition, including their positions, age, nationality, growth, potential and personal ingame stats!
+- Record your clubs signings, worth, incoming youth players, injuries, loans, and more!
+- Record all of your teams matches, including score versus each competitor in the game. You will never have to wonder if you beat this team already in the past, you can just check within a second!
+- See your leagues progression throughout the season, as teams rise and drop.
+- Record your teams achievements, including historial stats and records, to fully immerse yourself in your playthrough.
 
 **Tips for editing** (optional)**:**  
 - For club logo use Wikipedia site of the club.
@@ -28,7 +30,6 @@ Check back on the instructions file once in a while when you encounter problems 
 - For club achievements, use clubs oficial site as well as their Wikipedia site.
 - For player nationalities use Wikipedia, open pictures in new tab, right click and copy, and paste right into the file.
 - For highlights of goals, use either imgur for a gif, or streamable for a video, and enter as hyperlink.
-
 
 And thats it!
 
