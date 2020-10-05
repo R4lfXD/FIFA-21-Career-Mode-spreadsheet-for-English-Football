@@ -19,7 +19,8 @@ Check back on the instructions file once in a while when you encounter problems 
 - Record your clubs signings, worth, incoming youth players, injuries, loans, and more!
 - Record all of your teams matches, including score versus each competitor in the game. You will never have to wonder if you beat this team already in the past, you can just check within a second!
 - See your leagues progression throughout the season, as teams rise and drop.
-- Record your teams achievements, including historial stats and records, to fully immerse yourself in your playthrough.
+- Record your teams achievements, including historical stats and records, to fully immerse yourself in your playthrough.
+- **It's automated** - you have to do much less work than it seems like, many things are filled in automatically by the other ones you fill in
 
 **Tips for editing** (optional)**:**  
 - For club logo use Wikipedia site of the club.
