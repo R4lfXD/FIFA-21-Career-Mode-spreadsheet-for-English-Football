@@ -4,6 +4,7 @@ Spreadsheet holding career mode data about your team and players, updated from 2
 
 First, please download the "CHECK ME! Instructions" file and look around for bubbles that will explain you how to use the file and what to edit. The file also has examples
 filled in for refference, so you know how it should look for you later.
+
 Don't get overwhelmed and discouraged by all the different things! Even if you only use the basic player stats like apps, goals and assists, IMO you will still find this sheet
 incredibly useful to easily see cummulative stats of your players over all seasons you play.
 
@@ -11,6 +12,11 @@ When you're ready, you can get the "FIFA 21 template" file and edit it to your o
 The base club I chose is Bradford City, but of course, rename and color to colors of your own club. You can enter their historical achievements, stats and more.
 
 Check back on the instructions file once in a while when you encounter problems or forget what is purpouse of which feature.
+
+**Quick Feature List :**
+- Record stats of your players in each competition
+- lol
+
 
 **Tips for editing** (optional)**:**  
 - For club logo use Wikipedia site of the club.
